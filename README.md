@@ -1,6 +1,5 @@
 ## Hi there 👋
-![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:96fbc4,50:60efff,100:b19fff&text=Haneul%20Jang&fontColor=fff&animation=twinkling&desc=°.♡┈┈┈┈∘*┈୨୧┈*∘┈┈┈┈♡.°)
-
+![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:96fbc4,50:60efff,100:b19fff&text=Haneul%20Jang&fontColor=fff&animation=twinkling&fontAlignY=50&desc=°.♡┈┈┈┈∘*┈୨୧┈*∘┈┈┈┈♡.°&descSize=20&descAlign=50&descAlignY=62)
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=cocosky77&utm_content=line">
   <img
