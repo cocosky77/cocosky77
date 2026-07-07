@@ -1,12 +1,12 @@
 ## Hi there 👋
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:96fbc4,50:60efff,100:b19fff&text=Haneul%20Jang&fontColor=fff&animation=twinkling&fontAlignY=50&desc=°.♡┈┈┈┈∘*┈୨୧┈*∘┈┈┈┈♡.°&descSize=20&descAlign=50&descAlignY=62)
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=cocosky77&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/cocosky77?pet-id=852359477770980503"
-    width="600"
-    height="120"
-  />
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=cocosky77&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/cocosky77"
+  width="600"
+  height="300"
+/>
 </a>
   
 
