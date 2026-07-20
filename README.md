@@ -10,6 +10,13 @@
 <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'/>
 <img src='https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge'/>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cocosky77)](https://github.com/cocosky77/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cocosky77)](https://github.com/cocosky77/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.shion.dev/api?username=cocosky77)](https://github.com/cocosky77/github-readme-stats)
+[![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=cocosky77)](https://github.com/cocosky77/github-readme-stats)
+
+
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=cocosky77&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/cocosky77"
